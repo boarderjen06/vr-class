@@ -2,3 +2,4 @@
 ## August 9, 2013
 
 Web edit to README
+Jordan McCullough
