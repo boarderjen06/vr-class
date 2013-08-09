@@ -1,3 +1,3 @@
-# VR Class for August 9
+# VR Class
+## August 9, 2013
 
-Stuff about class here
